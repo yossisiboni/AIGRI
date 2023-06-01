@@ -1,0 +1,90 @@
+{
+  "itemId" : "_DmYayLfwEe2qD5wQKknw4g",
+  "contextList" : [ {
+    "contextName" : "Dev",
+    "repoId" : "_pZuqwM2xEeuDgPzndBxSpQ",
+    "parameterList" : [ {
+      "id" : "_rsgmFABFEe6jVNgNBxa5OA",
+      "name" : "con_CSV_line_number"
+    }, {
+      "id" : "_rsgmIABFEe6jVNgNBxa5OA",
+      "name" : "con_party_timestamp"
+    }, {
+      "id" : "_rsgmFQBFEe6jVNgNBxa5OA",
+      "name" : "con_Table_lines_number"
+    }, {
+      "id" : "_rsgmGwBFEe6jVNgNBxa5OA",
+      "name" : "instance"
+    }, {
+      "id" : "_rsgmGABFEe6jVNgNBxa5OA",
+      "name" : "loadingName"
+    }, {
+      "id" : "_rsgmHgBFEe6jVNgNBxa5OA",
+      "name" : "match_ind"
+    }, {
+      "id" : "_rsgmGQBFEe6jVNgNBxa5OA",
+      "name" : "partyControlFileLocation"
+    }, {
+      "id" : "_rsgmGgBFEe6jVNgNBxa5OA",
+      "name" : "partyControlFileName"
+    }, {
+      "id" : "_rsgmFwBFEe6jVNgNBxa5OA",
+      "name" : "propertyFileName"
+    }, {
+      "id" : "_rsgmEwBFEe6jVNgNBxa5OA",
+      "name" : "Talend_Output_Files"
+    }, {
+      "id" : "_rsgmCwBFEe6jVNgNBxa5OA",
+      "name" : "Zip_File_BackUp_Location"
+    }, {
+      "id" : "_rsgmCABFEe6jVNgNBxa5OA",
+      "name" : "Zip_File_Location"
+    }, {
+      "id" : "_rsgmCQBFEe6jVNgNBxa5OA",
+      "name" : "Zip_File_Name"
+    } ]
+  }, {
+    "contextName" : "Prod",
+    "repoId" : "_pZuqwM2xEeuDgPzndBxSpQ",
+    "parameterList" : [ {
+      "id" : "_rsgmOABFEe6jVNgNBxa5OA",
+      "name" : "con_CSV_line_number"
+    }, {
+      "id" : "_rsgmRABFEe6jVNgNBxa5OA",
+      "name" : "con_party_timestamp"
+    }, {
+      "id" : "_rsgmOQBFEe6jVNgNBxa5OA",
+      "name" : "con_Table_lines_number"
+    }, {
+      "id" : "_rsgmPwBFEe6jVNgNBxa5OA",
+      "name" : "instance"
+    }, {
+      "id" : "_rsgmPABFEe6jVNgNBxa5OA",
+      "name" : "loadingName"
+    }, {
+      "id" : "_rsgmQgBFEe6jVNgNBxa5OA",
+      "name" : "match_ind"
+    }, {
+      "id" : "_rsgmPQBFEe6jVNgNBxa5OA",
+      "name" : "partyControlFileLocation"
+    }, {
+      "id" : "_rsgmPgBFEe6jVNgNBxa5OA",
+      "name" : "partyControlFileName"
+    }, {
+      "id" : "_rsgmOwBFEe6jVNgNBxa5OA",
+      "name" : "propertyFileName"
+    }, {
+      "id" : "_rsgmNwBFEe6jVNgNBxa5OA",
+      "name" : "Talend_Output_Files"
+    }, {
+      "id" : "_rsgmLwBFEe6jVNgNBxa5OA",
+      "name" : "Zip_File_BackUp_Location"
+    }, {
+      "id" : "_rsgmLABFEe6jVNgNBxa5OA",
+      "name" : "Zip_File_Location"
+    }, {
+      "id" : "_rsgmLQBFEe6jVNgNBxa5OA",
+      "name" : "Zip_File_Name"
+    } ]
+  } ]
+}
